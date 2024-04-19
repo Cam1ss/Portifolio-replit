@@ -18,7 +18,7 @@
 
 ![arv-invertida](https://github.com/Cam1ss/Portifolio-replit/assets/125037138/f2bbfad9-d2e9-48cb-b552-e38e8272daf3)
 
-<h2> 🍓 :: Ferramentas Utilizadas </h2>
+<h2> 🍓 :: FERRAMENTAS UTILIZADAS </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=,js,html,css,nodejs,replit,figma,vscode,)](https://skillicons.dev)
 
