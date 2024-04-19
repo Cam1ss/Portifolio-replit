@@ -4,7 +4,7 @@
 
 <img width="80%" src="https://github.com/Cam1ss/Portifolio-replit/assets/125037138/4b3ddfe0-e604-4a86-ba3f-1c8607ab2b6f">
 
-<a href="https://cam1ss.github.io/Portifolio-Meu/" target="_self" rel="external">link para acessar o site</a>
+<a href="https://cam1ss.github.io/Portifolio-Meu/"  target="_blank">link para acessar o site</a>
 
 </div>
 
