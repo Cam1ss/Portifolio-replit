@@ -10,15 +10,15 @@
 
 <div align="left">
 
-<h2> 🍓 :: Descrição </h2>
+<h3> 🍓 :: Descrição </h3>
    
 - Desenvolvi um projeto individual focado na criação de um site pessoal, optando por um formato de portfólio para simplificar o processo de recrutamento 
 
-<h2> 🍓 :: Diagrama da Árvore Invertida </h2>
+<h3> 🍓 :: Diagrama da Árvore Invertida </h3>
 
 ![arv-invertida](https://github.com/Cam1ss/Portifolio-replit/assets/125037138/f2bbfad9-d2e9-48cb-b552-e38e8272daf3)
 
-<h2> 🍓 :: Ferramentas Utilizadas </h2>
+<h3> 🍓 :: Ferramentas Utilizadas </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=,js,html,css,nodejs,replit,figma,vscode,)](https://skillicons.dev)
 
