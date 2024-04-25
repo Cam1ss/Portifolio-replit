@@ -17,7 +17,11 @@
 
 <h3> 🍓 :: Diagrama da Árvore Invertida </h3>
 
-<img width="80%" src="https://github.com/Cam1ss/Portifolio-replit/assets/125037138/f2bbfad9-d2e9-48cb-b552-e38e8272daf3">
+<div align="center">
+
+<img  width="80%" src="https://github.com/Cam1ss/Portifolio-replit/assets/125037138/f2bbfad9-d2e9-48cb-b552-e38e8272daf3">
+
+</div>
 
 <h3> 🍓 :: Ferramentas Utilizadas </h3>
 
