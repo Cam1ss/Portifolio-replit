@@ -12,11 +12,12 @@
 
 <h3> 🍓 :: Descrição </h3>
    
-- Desenvolvi um projeto individual focado na criação de um site pessoal, optando por um formato de portfólio para simplificar o processo de recrutamento 
+- Criação de um projeto individual focado em um site pessoal, optando por um formato de portfólio para simplificar o processo de recrutamento de minha pessoa
+- <strong>Link para o Replit :</strong> https://replit.com/@Camiss/PortifolioCamiss
 
 <h3> 🍓 :: Diagrama da Árvore Invertida </h3>
 
-![arv-invertida](https://github.com/Cam1ss/Portifolio-replit/assets/125037138/f2bbfad9-d2e9-48cb-b552-e38e8272daf3)
+<img width="80%" src="https://github.com/Cam1ss/Portifolio-replit/assets/125037138/f2bbfad9-d2e9-48cb-b552-e38e8272daf3">
 
 <h3> 🍓 :: Ferramentas Utilizadas </h3>
 
